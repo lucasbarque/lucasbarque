@@ -11,7 +11,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Lucas Barque <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966"><img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30" height="30" data-canonical-src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" style="max-width:100%;"></a></h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+and+Backend+Developer;Always+learning+new+things;%2B5+years+of+code+experience&center=true&width=380&height=45"</a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Frontend+e+Backend;Sempre+aprendendo+coisas+novas;%2B5+anos+de+experi%C3%AAncia+com+dev&center=true&width=380&height=45"</a>
 </p>
   
 <a href="https://www.linkedin.com/in/lucas-barque/">
