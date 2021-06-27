@@ -1,8 +1,8 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-<div align="right">
- <a href="README.md"><img src="images/us-flag.png" height="13"> English</a>
- <a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a>
+<div align="right"> 
+ <a href="README.md"><img src="br-flag.png" height="13"> Português</a>
+ <a href="README_en.md"><img src="us-flag.png" height="13"> English</a>
 <img align="right" margin="8px" width="300px" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
 </div>
 
