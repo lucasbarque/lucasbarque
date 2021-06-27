@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h1 align="center">Hi Dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Barque <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966"><img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30" height="30" data-canonical-src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" style="max-width:100%;"></a></h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Lucas Barque <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966"><img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30" height="30" data-canonical-src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" style="max-width:100%;"></a></h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+and+Backend+Developer;Always+learning+new+things;%2B5+years+of+code+experience&center=true&width=380&height=45"</a>
@@ -27,17 +27,17 @@
 </a>
 </div>
 
-## :smile: About me
-Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
+## :smile: Sobre me
+Olá, sou desenvolvedor FrontEnd, rumo ao status de FullStack.:stuck_out_tongue_winking_eye:
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Post Graduate In Software Architecture Distributed.
-- 🌱 &nbsp; Learning more about Backend Architectures and Continous Delivery.
-- 💻 &nbsp; With 5 years' development working experience.
-- 🎸 &nbsp; I'm Guitar Player.
-- 📸 &nbsp; Free time Photographer.
+- 🤔 &nbsp; Gosto de explorar novas tecnologias e soluções de desenvolvimento de software.
+- 🎓 &nbsp; Estou estudando Pós Graduação em Arquitetura de Software Distribuído.
+- 🌱 &nbsp; Estudando a fundo o Backend de Arquitetura de Sistemas e CI/CD.
+- 💻 &nbsp; Possuo 5 anos de trabalho com desenvolvimento de sistemas.
+- 🎸 &nbsp; Sou guitarrista.
+- 📸 &nbsp; Fotógrafo nas horas vagas.
 
-### 👨‍💻 Programming languages and Frameworks
+### 👨‍💻 Linguages de Programação e Frameworks
 
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
