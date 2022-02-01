@@ -32,7 +32,6 @@
 Olá, sou desenvolvedor FrontEnd, rumo ao status de FullStack.:stuck_out_tongue_winking_eye:<br/>
 Sou Engenheiro de Software na Gerencianet 🧡
 - 🤔 &nbsp; Gosto de explorar novas tecnologias e soluções de desenvolvimento de software.
-- 🎓 &nbsp; Estou estudando Pós Graduação em Arquitetura de Software Distribuído.
 - 🌱 &nbsp; Estudando a fundo o Backend de Arquitetura de Sistemas e CI/CD.
 - 💻 &nbsp; Possuo 5 anos de trabalho com desenvolvimento de sistemas.
 - 🎸 &nbsp; Sou guitarrista.
