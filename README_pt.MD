@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<div align="right">  
+<div align="right"> 
  <a href="README.MD"><img src="us-flag.png" height="13"> English</a>
  <a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a>
 <img align="right" margin="8px" width="300px" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
@@ -8,10 +8,11 @@
 
 <div align="center">
 
-<h1 align="center">Hi Dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Barque <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966"><img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30" height="30" data-canonical-src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" style="max-width:100%;"></a></h1>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Lucas Barque <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966">
+<img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30" height="30" data-canonical-src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" style="max-width:100%;"></a></h1>
+
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;%2B6+years+of+code+experience;Always+learning+new+things;&center=true&width=380&height=45"</a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Frontend;%2B6+anos+de+experi%C3%AAncia+com+dev;Sempre+aprendendo+coisas+novas&center=true&width=380&height=45"</a>
 </p>
   
 <a href="https://www.linkedin.com/in/lucas-barque/">
@@ -19,30 +20,30 @@
 </a>
 
 <a href="mailto:lucasbarquesilva@gmail.com">
-<img height="22" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img height="22" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/lucasbarque/">
-<img height="22" alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://twitter.com/lucasbarque">
+<img height="22" alt="Twitter" src="https://img.shields.io/badge/lucasbarque-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 </div>
 
-## :smile: About me
+## :smile: Sobre me
 
-Hello, I am a FrontEnd Developer, and Javascript lover.:stuck_out_tongue_winking_eye:<br/>
+Olá, sou desenvolvedor FrontEnd, e apaixonado por Javascript.:stuck_out_tongue_winking_eye:<br/>
 
-I am working at Gerencianet/br 🧡 as Software Engineer.
+Estou trabalhando atualmente na Gerencianet/BR 🧡 como Engenheiro de Software.
 
-My mission is to impact thousands of people by providing the best about usability, UX/UI Design, accessibility, etc...
+Minha missão é impactar milhares de pessoas, fornecendo o que há de melhor em usabilidade, UX/UI Design, acessibilidade, etc.
 
-Every day, i seek an evolution in my carrer, my objective is actively involved in projects with challenging goals, ensuring scalabily, usability, maintainability, an of course, continuous learning. 🚀
+Todos os dias busco evolução em minha carreira profissional, busco me envolver ativamente em projetos com metas desafiadoras, garantindo escalabilidade, usabilidade, manutenabilidade, e claro, aprendizado contínuo.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning deeply about the main frontend technologies, such as: ReactJS, NextJS, VueJS and NuxtJS.
-- 💻 &nbsp; With 6 years' development working experience.
-- 🎸 &nbsp; I'm Guitar Player.
+- 🤔 &nbsp; Gosto de explorar novas tecnologias e soluções de desenvolvimento de software.
+- 🌱 &nbsp; Estudo a fundo as principais tecnologias de frontend, como: NextJS, ReactJS, Vue.
+- 💻 &nbsp; Estou há mais de 6 anos trabalhando desenvolvimento de sistemas.
+- 🎸 &nbsp; Nas horas vagas gosto de tocar guitarra.
 
-### 👨‍💻 Programming languages, tools and Frameworks (I made a summary 😂)
+### 👨‍💻 Linguagens de Programação, Ferramentas e Frameworks (Fiz um resumo 😂)
 
 <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="NextJS"  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
