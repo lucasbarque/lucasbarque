@@ -2,7 +2,7 @@
 
 <div align="right">  
  <a href="README.MD"><img src="us-flag.png" height="13"> English</a>
- <a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a>
+ <a href="README_pt.MD"><img src="br-flag.png" height="13"> Português</a> 
 <img align="right" margin="8px" width="300px" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
 </div>
 
