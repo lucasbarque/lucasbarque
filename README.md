@@ -11,7 +11,7 @@
 <img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30" height="30" data-canonical-src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" style="max-width:100%;"></a></h1>
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Frontend;%2B6+anos+de+experi%C3%AAncia+com+dev;Sempre+aprendendo+coisas+novas&center=true&width=380&height=45"</a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Frontend;%2B6+anos+de+experi%C3%AAncia+com+dev;Sempre+aprendendo+coisas+novas&center=true&width=380&height=45](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Fullstack;%2B+7%20anos+de+experi%C3%AAncia+com+dev;Sempre+aprendendo+coisas+novas&center=true&width=380&height=45)"</a>
 </p>
   
 <a href="https://www.linkedin.com/in/lucas-barque/">
@@ -27,19 +27,17 @@
 </a>
 </div>
 
-## :smile: Sobre me
+## :smile: Mais um pouquinho sobre mim
 
-Olá, sou desenvolvedor FrontEnd, e apaixonado por Javascript.:stuck_out_tongue_winking_eye:<br/>
+Olá, sou desenvolvedor Fullstack, apaixonado por Javascript.:stuck_out_tongue_winking_eye:<br/>
 
-Estou trabalhando atualmente na Gerencianet/BR 🧡 como Engenheiro de Software.
-
-Minha missão é impactar milhares de pessoas, fornecendo o que há de melhor em usabilidade, UX/UI Design, acessibilidade, etc.
+Minha missão é impactar milhares de pessoas, fornecendo soluções de sofwares completas e robustas.
 
 Todos os dias busco evolução em minha carreira profissional, busco me envolver ativamente em projetos com metas desafiadoras, garantindo escalabilidade, usabilidade, manutenabilidade, e claro, aprendizado contínuo.
 
 - 🤔 &nbsp; Gosto de explorar novas tecnologias e soluções de desenvolvimento de software.
-- 🌱 &nbsp; Estudo a fundo as principais tecnologias de frontend, como: NextJS, ReactJS, Vue.
-- 💻 &nbsp; Estou há mais de 6 anos trabalhando desenvolvimento de sistemas.
+- 🌱 &nbsp; Estudo a fundo as principais tecnologias do ecossistema Javascript, como: ReactJS e NodeJS.
+- 💻 &nbsp; Estou há mais de 7 anos trabalhando desenvolvimento de sistemas.
 - 🎸 &nbsp; Nas horas vagas gosto de tocar guitarra.
 
 ### 👨‍💻 Linguagens de Programação, Ferramentas e Frameworks (Fiz um resumo 😂)
