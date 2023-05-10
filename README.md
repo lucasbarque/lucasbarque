@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Lucas Barque <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966">
+<h1 align="center">Olá, sou Lucas Barque <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966">
 <img src="https://camo.githubusercontent.com/049ccbafc484ffa8bc2ca3be89dba5467fb8c664008659c4252b59d99bd9d676/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30" height="30" data-canonical-src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" style="max-width:100%;"></a></h1>
 
 <p align="center">
