@@ -18,11 +18,11 @@
 </a>
 
 <a href="mailto:lucasbarquesilva@gmail.com">
-<img height="22" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img height="22" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/lucasbarque/">
-<img height="22" alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://twitter.com/lucasbarque">
+<img height="22" alt="Twitter" src="https://img.shields.io/badge/lucasbarque-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 </div>
 
