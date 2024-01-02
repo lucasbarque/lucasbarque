@@ -29,15 +29,15 @@
 
 ## :smile: Mais um pouquinho sobre mim
 
-Olá, sou desenvolvedor Fullstack, apaixonado por Javascript.:stuck_out_tongue_winking_eye:<br/>
+Olá, sou desenvolvedor Frontend, apaixonado por Javascript.:stuck_out_tongue_winking_eye:<br/>
 
-Minha missão é impactar milhares de pessoas, fornecendo soluções de sofwares completas e robustas.
+Minha missão é impactar milhares de pessoas, fornecendo soluções de sofwares completas, complexas e robustas.
 
 Todos os dias busco evolução em minha carreira profissional, busco me envolver ativamente em projetos com metas desafiadoras, garantindo escalabilidade, usabilidade, manutenabilidade, e claro, aprendizado contínuo.
 
-- 🤔 &nbsp; Gosto de explorar novas tecnologias e soluções de desenvolvimento de software.
-- 🌱 &nbsp; Estudo a fundo as principais tecnologias do ecossistema Javascript, como: ReactJS e NodeJS.
-- 💻 &nbsp; Estou há mais de 7 anos trabalhando desenvolvimento de sistemas.
+- 🤔 &nbsp; Gosto de explorar novas tecnologias.
+- 🌱 &nbsp; Sou especialista em programação Frontend com Javascript, focado em ReactJS.
+- 💻 &nbsp; Estou há mais de 8 anos trabalhando desenvolvimento de sistemas.
 - 🎸 &nbsp; Nas horas vagas gosto de tocar guitarra.
 
 ### 👨‍💻 Linguagens de Programação, Ferramentas e Frameworks (Fiz um resumo 😂)
