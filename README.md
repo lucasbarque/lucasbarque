@@ -41,7 +41,7 @@ Todos os dias busco evolução em minha carreira profissional, busco me envolver
 
 ### 👨‍💻 Linguagens de Programação, Ferramentas e Frameworks (Fiz um resumo 😂)
 
-### Frontend <br/>
+**Frontend** <br/>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="NextJS"  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
