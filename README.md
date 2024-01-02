@@ -29,7 +29,7 @@
 
 ## :smile: Mais um pouquinho sobre mim
 
-Olá, sou desenvolvedor Frontend, apaixonado por Javascript.:stuck_out_tongue_winking_eye:<br/>
+Olá, sou desenvolvedor Frontend, apaixonado por Javascript.<br/>
 
 Minha missão é impactar milhares de pessoas, fornecendo soluções de sofwares completas, complexas e robustas.
 
