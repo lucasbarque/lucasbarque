@@ -36,7 +36,7 @@ Todos os dias busco evolução em minha carreira profissional, busco me envolver
 
 - 🤔 &nbsp; Gosto de explorar novas tecnologias.
 - 🌱 &nbsp; Sou especialista em programação Frontend com Javascript, focado em ReactJS.
-- 💻 &nbsp; Estou há mais de 8 anos trabalhando desenvolvimento de sistemas.
+- 💻 &nbsp; Estou há mais de 9 anos trabalhando desenvolvimento de sistemas.
 - 🎸 &nbsp; Nas horas vagas gosto de tocar guitarra, sanfona, violão, flauta e teclado.
 
 ### 👨‍💻 Linguagens de Programação, Ferramentas e Frameworks (Fiz um resumo 😂)
